@@ -1,0 +1,5 @@
+/Users/vannsoklay/rust/rust_mongo_graphql/target/debug/deps/libasync_attributes-28938aab96421cea.dylib: /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/async-attributes-1.1.2/src/lib.rs
+
+/Users/vannsoklay/rust/rust_mongo_graphql/target/debug/deps/async_attributes-28938aab96421cea.d: /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/async-attributes-1.1.2/src/lib.rs
+
+/Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/async-attributes-1.1.2/src/lib.rs:

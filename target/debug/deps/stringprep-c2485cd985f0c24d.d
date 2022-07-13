@@ -1,0 +1,7 @@
+/Users/vannsoklay/rust/rust_mongo_graphql/target/debug/deps/stringprep-c2485cd985f0c24d.rmeta: /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/lib.rs /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/rfc3454.rs /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/tables.rs
+
+/Users/vannsoklay/rust/rust_mongo_graphql/target/debug/deps/stringprep-c2485cd985f0c24d.d: /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/lib.rs /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/rfc3454.rs /Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/tables.rs
+
+/Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/lib.rs:
+/Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/rfc3454.rs:
+/Users/vannsoklay/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/tables.rs:
